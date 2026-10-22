@@ -1,4 +1,4 @@
-# Stopwatch and Timer
+# GANESH Stopwatch and Timer
 
 A small React app with a stopwatch and a configurable countdown timer.
 
@@ -39,3 +39,7 @@ After setting the compatibility option above, run:
 ```bash
 npm run build
 ```
+## Credits
+
+Adapted from [Codinn's React stopwatch and timer tutorial](https://www.codinn.dev/projects/react-countdown-timer-days-hours-minutes-seconds), based on  Real world example 
+Corrected and customized by Ganesh.
